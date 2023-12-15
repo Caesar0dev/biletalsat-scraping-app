@@ -1,3 +1,3 @@
 # Web Scraping Desktop App
 
-![landingpage](./biletalsat-desktop-app.mp4)
+![Watch the video](./biletalsat-desktop-app.mp4)
